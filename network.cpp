@@ -1,11 +1,9 @@
 /**
  * @class NetworkManager
  * @file network.cpp
- * @author Improvement & Innovation Team (br-idpbg-engtest-support@mail.foxconn.com)
- * @version 0.1
- * @date 2024-02-29
- *
- * @copyright Copyright (c) 2024
+ * @author Guilherme Santos
+ * @version 1.0
+ * @date 2024-04-02
  */
 
 #include <WiFi.h>         // Include the WiFi library
